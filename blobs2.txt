@@ -1,0 +1,10 @@
+9 25
+   xx
+  xxxx            
+ xxxxxx          xxxx 
+  xxxx          xxxxxx
+   xx          xxxxxxxx
+              xxxxxxxxxx
+               xxxxxxxx
+                xxxxxx
+                 xxxx
